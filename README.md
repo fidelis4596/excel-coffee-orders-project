@@ -5,7 +5,7 @@ The goal of this project is to analyse coffee sales data to understand customer 
 
 
 ## 📊 Dataset Used
-- <a href= "https://github.com/fidelis4596/excel-coffee-orders-project/blob/main/coffeeOrdersData.xlsx">DataSet</a>
+- <a href= "https://github.com/fidelis4596/excel-coffee-orders-project/blob/main/coffeeOrdersData.xlsx">Raw data</a>
 
 
 ## ❓ Key Questions (KPIs)
@@ -24,6 +24,8 @@ The goal of this project is to analyse coffee sales data to understand customer 
 5. Created visualizations including line charts and bar charts.
 6. Combined all visuals into one interactive Excel dashboard.
 7. Added slicers for Roast Type, Size, and Loyalty Card status to enable dynamic filtering.
+8. Final results
+- <a href = "https://github.com/fidelis4596/excel-coffee-orders-project/blob/main/coffee%20Orders%20Project.xlsx">Finall project</a>
 
 ## 📈 Dashboard
 <img width="1614" height="752" alt="Screenshot 2025-11-26 122252" src="https://github.com/user-attachments/assets/cd8b5694-22db-4f90-a565-f72fcac22d30" />
