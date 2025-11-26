@@ -3,12 +3,11 @@
 ## 📌 Project Objective
 The goal of the Coffee Orders Project is to analyse coffee sales data in order to understand customer behaviour, top-selling products, order trends, and performance across different countries. The insights from this analysis will help the business improve sales strategies and customer targeting.
 
----
+
 
 ## 📊 Dataset Used
-**Dataset:** Coffee Orders (Orders, Customers, Products tables)
+**Dataset:** 
 
----
 
 ## ❓ Key Questions (KPIs)
 - Compare total sales and number of orders  
