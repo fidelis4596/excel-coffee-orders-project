@@ -10,35 +10,26 @@ The goal of the Coffee Orders Project is to analyse coffee sales data in order t
 
 
 ## ❓ Key Questions (KPIs)
-- Compare total sales and number of orders  
-- Which month recorded the highest sales and the highest number of orders?  
-- Who purchased more — Men or Women?  
-- What are the different order statuses?  
+- How do sales trends change over time for each coffee type? 
 - Which country contributes the most to total sales?  
-- Relation between age groups and gender based on number of orders  
 - Which coffee type or roast type sells the most?  
-- Which customer segment (loyalty card holders vs non-holders) contributes more to revenue?  
-- Percentage of orders delivered successfully  
-- Top 5 customers by total purchase value  
+- Which customer segment (loyalty card holders vs non-holders) contributes more to the total sales?  
+- Top 5 customers by total sales.
 
----
 
 ## ⚙️ Process
 1. Checked the dataset for missing values, duplicates, and inconsistencies  
 2. Standardized data types and formats (dates, text fields, numerical values)  
 3. Cleaned the data and ensured consistency across the Orders, Customers, and Products tables  
 4. Built PivotTables to answer each KPI  
-5. Created charts such as column charts, line charts, and donut charts to visualize insights  
+5. Created charts such as column charts and line charts to visualize insights  
 6. Designed a single interactive dashboard by combining all PivotCharts  
-7. Added slicers for Country, Coffee Type, Roast Type, and Purchase Date to make the dashboard fully dynamic  
+7. Added slicers for  Roast Type, size and loyalty card to make the dashboard fully dynamic  
 
----
 
 ## 📈 Dashboard
-> **Insert screenshot here**  
-> *(Add your Excel dashboard screenshot after completion)*
+<img width="1614" height="752" alt="Screenshot 2025-11-26 122252" src="https://github.com/user-attachments/assets/cd8b5694-22db-4f90-a565-f72fcac22d30" />
 
----
 
 ## 🔍 Project Insights
 - Majority of the purchases were made by **(Men/Women)**  
